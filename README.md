@@ -1,3 +1,7 @@
+<h1>Desktop View</h1>
+<img src="https://github.com/ursrudra/Menu/blob/master/Samples/desk.PNG" alt="Deasktop View"/>
+<h1>Mobile View</h1>
+<img src="https://github.com/ursrudra/Menu/blob/master/Samples/mobie.PNG" alt = "mobile view"/>
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
