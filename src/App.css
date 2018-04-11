@@ -1,0 +1,57 @@
+h1
+{
+	font-family: Roboto;
+	color:white;
+	font-size: 60px;
+	text-shadow: 1px 5px 5px #22bbff;
+	text-align: center;
+}
+.cardlayout
+{
+	box-shadow: 1px 1px 1px #DDD;
+	
+}
+
+.spicy{
+
+}
+.title{
+	font-family: 'Arvo', serif;
+
+}
+.subtitle{
+font-family: 'Lato', sans-serif;
+font-size: 0.8em;
+float: left;
+font-style: italic;
+}
+
+#vbtn{
+	float: right;
+	margin-right: 0;
+	font-size: 0.8em;
+}
+.dot{
+	width: 10px;
+	height: 10px;
+	display: inline-block;
+	border-radius: 5px;
+	margin-right: 2px;
+}
+.product-image{
+	height:350px;
+}
+.chilli{
+	margin-left: 8px;
+	margin-right: 2px;
+		width:10px;
+	height: 10px;
+
+}
+#red
+{
+	background-color: red;
+}
+#green{
+	background-color: green;
+}
